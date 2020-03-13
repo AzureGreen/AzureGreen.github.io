@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+## Jiawei Zhang(AzureGreen)
 
-You can use the [editor on GitHub](https://github.com/AzureGreen/AzureGreen.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+- **Huazhong University of Science & Technology**   Sep.2018 – Jun.2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  Master of Computer Architecture   GPA: 3.86/4 (Rank 11/55)  
 
-```markdown
-Syntax highlighted code block
+- **Chang’an University**   Sep.2014 – Jun.2018  
 
-# Header 1
-## Header 2
-### Header 3
+  Bachelor of Network Engineering  GPA: 3.84/4 (Rank 1/32)  
 
-- Bulleted
-- List
+**Technical Skills:** C/C++(4yrs), Python(2yrs), Linux, Vim, Git, Shell, GDB, CMake.  
 
-1. Numbered
-2. List
+### Work Experience
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+- **Tencent Inc., Shenzhen**,   **Jul.2019 – Present**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  ***Backend development Intern***
 
-### Jekyll Themes
+  - Developed a log replay-based cache model analysis system using **Python** and **C++**, can handle any cache capacity requirements on a single machine through the divide-and-conquer idea.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AzureGreen/AzureGreen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  - After pre-research, updated the CDN cache architecture to **RIPQ** so that advanced replacement strategies can be applied to disk sequential read and write scenarios, and **improved the cache hit rate by about 10%**, which provide ideas for the next-generation of *Tencent Cloud* CDN cache architecture.
 
-### Support or Contact
+### Projects
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+
+- **SSD Based Photo Cache Optimization**, *Group Research Project*,   **Sep.2018 – Mar.2019**
+
+  - Proposed an admission policy called “one-time-access-exclusion”, filtered one-time access photos, to improve cache space utilization and reduce invalid writes to SSDs after analyzing the access of characteristics of QQ albums.
+  - Used **machine learning** methods with some social information in the photos to train a classifier which could predict whether the photo is one-time-access or not, and its **accuracy is over 85%**.
+  - Applied this classifier to cache with basic replacement algorithms could **improve the hit rate by about 1%~4%**,  and **the amount of data written to the SSD was significantly** **reduced about 54%**.
+
+  > The research work has been completed and the paper is currently under review of ACM Transaction on Storage.
+
+### Activity
+
+---
+
+- **Teaching assistant in HUST**,   **May – Jun.2019**
+
+  - Worked as a TA for bachelor course “Algorithm Analysis and Design”. Mainly responsible for the preparation and teaching of experimental lessons.
+
+  - In order to create a good experimental environment, write experimental framework code using **C++** to test and verify students’ code.
+
+### Awards
+
+---
+
+- National Scholarship 2015
+
+- National Inspirational Scholarship   2016/2017
+
+- ACM 2nd prize of Chang’an University 2017
+
+- Outstanding graduates of Chang’an University 2018.
+
+- Outstanding thesis award of Chang’an University 2018.
