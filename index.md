@@ -53,11 +53,14 @@
 ---
 
 - National Scholarship 2015
-
 - National Inspirational Scholarship   2016/2017
-
 - ACM 2nd prize of Chang’an University 2017
-
 - Outstanding graduates of Chang’an University 2018.
-
 - Outstanding thesis award of Chang’an University 2018.
+
+---
+
+<br/>
+
+© CopyRight 2017-2020, All Rights Reserved. [陕ICP备17008462号-1](www.beian.miit.gov.cn)
+
