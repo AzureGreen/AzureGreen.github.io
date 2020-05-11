@@ -36,7 +36,7 @@
   - Used **machine learning** methods with some social information in the photos to train a classifier which could predict whether the photo is one-time-access or not, and its **accuracy is over 85%**.
   - Applied this classifier to cache with basic replacement algorithms could **improve the hit rate by about 1%~4%**,  and **the amount of data written to the SSD was significantly** **reduced about 54%**.
 
-  > The research work has been completed and the paper is currently under review of ACM Transaction on Storage.
+  > The research work has been completed and the paper is accepted by ACM Transaction on Storage.
 
 ### Activity
 
