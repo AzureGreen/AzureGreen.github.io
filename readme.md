@@ -37,9 +37,9 @@ AWARDS
 ---
 ---
 
-- Nov. 2015, **National Scholarships**.
-- Nov. 2016/17, **National Inspirational Scholarship**.
-- Jun. 2018, **Outstanding Graduates** of Chang'an University.
+- Nov. 2015, **National Scholarship**.
+- Nov. 2016/17, **National Inspirational Scholarships**.
+- Jun. 2018, **Outstanding Graduate** of Chang'an University.
 - Jun. 2018, **Excellent graduation thesis** of Chang'an University.
 
 
