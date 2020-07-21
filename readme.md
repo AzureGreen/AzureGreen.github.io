@@ -24,7 +24,7 @@ PUBLICATIONS
 - [**TOS**] Hua Wang, **Jiawei Zhang**, Ping Huang, Xinbo Yi, Bin Cheng, and Ke Zhou*. 2020. Cache What You Need to Cache: Reducing Write Traffic in Cloud Cache via “One-Time-Access-Exclusion” Policy. ACM Trans. Storage 16, 3, Article 18 (July 2020), 24 pages. DOI:[https://doi.org/10.1145/3397766](https://doi.org/10.1145/3397766)
 
 - ***Under Review***
-  - [**Performance**] Hua wang, **Jiawei Zhang**, Ke Zhou, Rui Wu and Cong Li. Deep Analysis of Commercial CDN Cache: A Tencent Case Study. International Symposium on Computer Performance, Modeling, Measurements and Evaluation, 2020.
+  - ~~[**Performance**] Hua wang, **Jiawei Zhang**, Ke Zhou, Rui Wu and Cong Li. Deep Analysis of Commercial CDN Cache: A Tencent Case Study. International Symposium on Computer Performance, Modeling, Measurements and Evaluation, 2020. (reject)~~
 
 ACTIVITIES
 ---
