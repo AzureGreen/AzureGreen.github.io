@@ -2,20 +2,31 @@ BIOGRAPHY
 ---
 ---
 
-**[Jiawei Zhang](https://www.zhangjiawei.top/)** is currently an M.S. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (**[HUST](http://english.hust.edu.cn/)**), Wuhan, China. Before his Master's journey, he received a B.S. degree from Network Engineering, Chang’an University, Xi’an, China, in 2018. His current main research interests include content delivery, cache theory, etc. He has published a paper in journal TOS. 
+Hi, my name is **[Jiawei Zhang](https://www.zhangjiawei.top/)**.
+
+I am currently an M.S. candidate in Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology (**[HUST](http://english.hust.edu.cn/)**), Wuhan, China. 
+Also, I am a part of the HUST & Tencent Joint Research Center of Intelligent Cloud Storage Technology.
+I’m interested in many system topics, such as: content delivery, cache theory, etc, and I have published a journal paper in TOS. 
+
+Before my Master's journey, I received a B.E. degree from Network Engineering, Chang’an University, Xi’an, China, in 2018. 
+
+
+`Email`: [jiaweizhang[at]hust.edu.cn](jiaweizhang@hust.edu.cn)
+
+`CV`: [PDF](cv/jiaweizhang.pdf)
 
 EDUCATION
 ---
 ---
 
 - Sep. 2018 - Now. M.S. (supervised by Associate Prof. [Hua Wang](http://faculty.hust.edu.cn/hwang/zh_CN/index.htm)), Wuhan National Laboratory for Optoelectronics, Huazhong University of Science and Technology, Wuhan, China.
-- Sep. 2014 - Jun. 2018. B.S. (supervised by Associate Prof. [Jun Hou](http://it.chd.edu.cn/info/1031/6438.htm)), Network Engineering, Chang'an University, Xi'an, China.
+- Sep. 2014 - Jun. 2018. B.E. (supervised by Associate Prof. [Jun Hou](http://it.chd.edu.cn/info/1031/6438.htm)), Network Engineering, Chang'an University, Xi'an, China.
 
 WORK EXPERIENCE
 ---
 ---
 
-- Jul. 2019 - Now. Intern, **[Tencent Inc.](https://www.tencent.com/en-us/about.html)**, Shenzhen, China. (Internship as part of the **[Intelligent Cloud Storage Joint Research center of HUST](https://ur.tencent.com/cooperation/lab)**)
+- Jul. 2019 - Now. Backend development Intern, Tencent Inc., Shenzhen, China.
 
 PUBLICATIONS
 ---
@@ -51,7 +62,6 @@ CONTACT
 - **Tel**: +86-18696483859
 - **Email**: jiaweizhang@hust.edu.cn
 - **GitHub**: [https://github.com/AzureGreen](https://github.com/AzureGreen)
-- **CV**: [https://www.zhangjiawei.top/cv](https://www.zhangjiawei.top/cv)
 
 ---
 
